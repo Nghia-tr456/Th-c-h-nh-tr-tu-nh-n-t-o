@@ -2,7 +2,7 @@
 
 Repository này lưu trữ mã nguồn 3 bài toán kinh điển trong AI, được cài đặt bằng Python với giao diện trực quan (Matplotlib), hỗ trợ Input động và tối ưu thuật toán.
 
-## 📋 Yêu cầu cài đặt (Requirements)
+## Yêu cầu cài đặt (Requirements)
 Để chạy được các chương trình, cần cài đặt thư viện đồ họa và tính toán:
 pip install matplotlib numpy
 
@@ -31,4 +31,5 @@ Thuật toán: Greedy Coloring (Tô màu tham lam).
 Tính năng:
 + Random Graph: Tự động sinh đồ thị ngẫu nhiên theo số lượng đỉnh người dùng nhập.
 + Animation: Mô phỏng từng bước quá trình tô màu (Duyệt đỉnh -> Chọn màu -> Tô).
+
 + Layout: Sắp xếp đỉnh theo hình tròn dễ quan sát.
